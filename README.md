@@ -124,5 +124,5 @@ This project is licensed under the **MIT License**.
 
 ## Author
 
-[Aditi Yadav]
-(https://github.com/aditi2583)
+**Aditi Yadav**
+[https://github.com/aditi2583]
